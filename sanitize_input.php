@@ -1,14 +1,4 @@
 <?php
-/** 
-Library: sanitize input
-
-Author: msharil
-
-## License
-
-The library is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-**/
 
 function cleanInput($data)
 {
